@@ -1,6 +1,8 @@
 # BillApplication
 This is a demo app, where I implemented google play billing. 
-Also, you can find how to test the app and how to get the response of a successful transaction. Very soon a documentation will be added.
+Also, you can find how to test the app and how to get the response of a successful transaction. 
+Here is the documentation of implementing google in-app purchase billing's implementation process. https://println.home.blog/2019/05/04/google-play-in-app-purchase-in-kotlin/
+Very soon a documentation for testing the app will be added.
 
 -------
 Features:
